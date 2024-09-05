@@ -1,11 +1,11 @@
 {
   "ios": {
-    "minRequiredVersion": "0.0.1",
+    "minRequiredVersion": "0.0.2",
     "updateUrl": "https://www.apple.com/jp/",
     "releaseNotes": "hoge"
   },
   "android": {
-    "minRequiredVersion": "0.0.1",
+    "minRequiredVersion": "0.0.2",
     "updateUrl": "https://www.google.co.jp/",
     "releaseNotes": "fuga"
   },
