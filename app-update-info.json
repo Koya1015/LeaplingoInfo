@@ -1,11 +1,11 @@
 {
   "ios": {
-    "minRequiredVersion": "0.3.0",
+    "minRequiredVersion": "0.0.1",
     "updateUrl": "https://itunes.apple.com/id6670288722",
     "releaseNotes": "hoge"
   },
   "android": {
-    "minRequiredVersion": "0.3.0",
+    "minRequiredVersion": "0.0.1",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.freestudio.leaplingo",
     "releaseNotes": "fuga"
   },
